@@ -1,3 +1,4 @@
+Task to use jenkins pipline 
 1- Install jenkins (optional: using docker image)
 2- Complete configuration
 3- Create admin user
